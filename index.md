@@ -2,15 +2,15 @@
 layout: default
 ---
 
-Welcome to my site.
+## Welcome to my site.
 
-This is mainly just a placeholder site for me and my email address (mh@tokiyoshi.ca).
+This is just a placeholder site for me and my email address (mh@tokiyoshi.ca).
 
 But since I'm here and so are you, ill show you some stuff:
 
 ## France
 
-I am here just kicking it
+I is where I'm kicking it nowadays
 
 ![Beach](https://lh3.googleusercontent.com/2rT5Wbs6dcMSZWm9zuAIAgCPT_hLpEdn3hOdegDo7OykH5a7upI2AFTLfh3YPDLETX2b1rXAGCImC5mpUk-gSkUu1Gl8qwIUEPSG4bsYZxyvx-AFPP2OJKEnve2iyuFD9ttTJSE6mdmpY5rOwBJTHiO-DGM2mLtXHK1vawhA316vzZEBTpZC-EwEnnPxQA-mL7U4ICjLhB1mdtg0YeIagBnuMdlfM2cPhRNXUJFj_AbH4zFc4Q0kN8P4UkYjTJD96Ypg-fEIKMJZ3VWWsIzYyX5YB_6ufOVDRo6NhYPgHU7hdNz_83m2ndH4S45ll9Oi3Vc4IIjPBvGfi2R55MhGnr6UNJL13hDa_MTWbKZ9kWjeVHVB0PAYbEXqM5F9y5yGH-VJce10wemIfsSft3wyKIHtUdp2qN9qY6P5pxMeaE-d_YeH3Rn-508fCtwoLLxFHUL5olsSlBdqZBjxmlGDoKl3gqXGdplnDeRdG3LfrKVNGgNfGOB5nk_hTRqt4YPXL-cJdO7JcFwXsqwq95eEsS7VEr4TX2k5iFzGNAhROJ1vwOLk8L0rrvSg2zVmGRhBqheBU-h8y3mfSfi1bkrQin_yqQbPaBNpgDrHYWSqrNZiS0ZOcaVweSTv8NAn1DxqqaTDhfU5digOV6SQL4D24A5s8A=w528-h938-no)
 
@@ -23,6 +23,5 @@ Before that I was a physics guy, taking pictures
 And LAZING around
 ![Lazer](https://lh3.googleusercontent.com/739N1lCNCn9ATT4ORbHezhNwf2FYCwqRVP8z3vNKxKRjzO2ZN177sL1HuNUWzc5s1lS6I42NGThds3OL5HrovGUuLcOIsHXW16QRHkYRreOMKCH4WHiAPeczissnV_P_SCx1uBkYnvmllLfP0FNdSQfqHZwH-NvdSVHfa0QetcZLN5cDSA6v-SAlw0bOE1pNMQPRBQk72fYeaY5_YZ41-dKPvAzQO37h6OgAu4wvxNmrI_BKRapdBRdYmodL42Sh8u0fM-3hTxxZPQHKTgmuPXV8WYd8mWRIRS1JSvkV4K4AMdJnQIS-9fYennBj_UqFOni9U7gwXaIIX07q7oEddNeo5dzPOjJu8hhqfFqYZGM2DT6-cGtrJDtaVoKuuSeYNTkpcBLrqCAZzVJFas309EpbIbrB2SWr1TxckmdHLHAFDGU7BxrM5WdKpxKEto64k0VtceeTvRB8VBnjSJ1Q922G2G5YFefuuYrMkE6Afou4zvMyYYfjAr9wmOoVcXaqRHgtyPySC1UtOuPFkaLenRVhVErsTisTsr-JmC1K5gqJ6WywCyLv6DvRe-13x81OqqM9rk-O0OsxBEIdWFjyySKHK1Hm2RDEOQqfwN8pfjXIHZ6UETbeBdp93f3-JmObTr9_y9wSCN_cCuP1abIPCMbD=w704-h938-no)
 
-Anyways, thats about it. 
 
-#####tokiyoshi was here
+##### tokiyoshi was here
